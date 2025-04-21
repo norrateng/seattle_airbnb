@@ -14,7 +14,7 @@ The aim is to examine the Seattle Airbnb data and explore the impact of includin
 - Seattle Airbnb.ipynb - analysis
 
 ## Results summary
-Please see discussion of results on Medium: (link)
+Please see discussion of results on Medium: https://medium.com/@norrateng/information-is-power-could-signalling-trustworthiness-help-you-boost-your-airbnb-listing-ba6b8abeb65c
 
 Summary:
 - Amount of extra information included in AirBnb listings have a positive impact on number of bookings/number of reviews
